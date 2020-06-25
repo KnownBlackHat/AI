@@ -1,3 +1,11 @@
+import os
+os.system('pip install gtts')
+os.system('pip install speechrecognition')
+os.system('pip install re')
+os.system('pip install webbrowser')
+os.system('pip install smtplib')
+os.system('pip install requests')
+os.system('pip install weather')
 from gtts import gTTS
 import speech_recognition as sr
 import os
